@@ -5,3 +5,4 @@ Check tags for each stage's patch
 
 Please insert your API key in gradle.properties file as
 MOVIE_DB_API_KEY = "your api key here"
+#comment
